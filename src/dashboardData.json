@@ -1,0 +1,19 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Category 1",
+        "widgets": [
+          { "id": 1, "name": "Widget 1", "text": "Random text 1" }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Category 2",
+        "widgets": [
+          { "id": 2, "name": "Widget 2", "text": "Random text 2" }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,48 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.category {
+  margin-bottom: 20px;
+}
+
+.widgets {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.widget {
+  background-color: #f0f0f0;
+  margin: 10px;
+  padding: 15px;
+  border-radius: 5px;
+  width: 200px;
+}
+
+.add-widget {
+  background-color: #e0e0e0;
+  margin: 10px;
+  padding: 15px;
+  border-radius: 5px;
+  width: 200px;
+}
+
+button {
+  margin-top: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 10px;
+}
